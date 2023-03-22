@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
